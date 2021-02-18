@@ -1,0 +1,149 @@
+img{
+    width: 420px;
+    height: 120px;
+    margin-left: 450px;
+    font-family: sans-serif;
+    font-style: normal;
+
+}
+#title{
+    text-align: center;
+    font-family:sans-serif;
+    font-size: 2em;
+    font-weight: 100;
+}
+#agree{
+    margin-left: 130px;
+    font-size: 19px;
+    font-family: sans-serif;
+}
+#cap{
+    background-color: #fff;
+    width: 300px;
+    margin-left: 130px;
+    
+    box-shadow:0px 1px 5px 0px rgb(0 0 0 / 20%), 0px 2px 2px 0px rgb(0 0 0 / 14%), 0px 3px 1px -2px rgb(0 0 0 / 12%);
+    border-radius: 2px;
+    cursor: -webkit-grab;
+    font-family: sans-serif;
+    
+}
+
+    
+    
+
+.age{
+    margin-right: 50px;
+    
+     border-bottom: 1px dashed;
+      width: 520px;
+      border-color: rgb(175, 174, 174);
+      color: grey;
+      font-size: 19px;
+      font-family: sans-serif;
+}
+.gender{
+    margin-left: 130px;
+    color: grey;
+    font-size: 17px;
+    font-family: sans-serif;
+}
+#pro{
+    background-color: #fff;
+    width: 1200px;
+    margin-left: 130px;
+    height: 100px;
+    box-shadow:0px 1px 5px 0px rgb(0 0 0 / 20%), 0px 2px 2px 0px rgb(0 0 0 / 14%), 0px 3px 1px -2px rgb(0 0 0 / 12%);
+    
+    border-radius: 2px;
+    cursor: -webkit-grab;
+    font-size: larger;
+    font-family: sans-serif;
+    align-items: center;
+}
+.container{
+    display: flex;
+    justify-content: space-around;
+    margin-left: 60px;
+    font-family: sans-serif;
+}
+.container1{
+    display: flex;
+    justify-content: space-between ;
+    margin-left: 130px;
+    font-family: sans-serif;
+}
+.column{
+    width: 500px;
+    border: none;
+    border-bottom: 1px solid;
+    border-color:grey;
+    font-size: 17px;
+    font-family: sans-serif;
+    
+}
+#abc{
+    margin-left: 130px;
+    font-size: 18px;
+    font-family: sans-serif;
+}
+.input{
+    width: 1140px;
+    border: none;
+    border-bottom: 1px solid;
+    border-color:grey;
+    margin-left: 130px;
+    font-size: large;
+    font-family: sans-serif;
+    
+    }
+input:hover{
+    border-bottom: 2px solid;
+}
+#dec{
+    margin-left: 130px;
+    font-family: sans-serif;
+}
+.Edu{
+    margin-left: 130px;
+    font-size: 20px;
+    font-family: sans-serif; 
+}
+.info{
+    margin-left: 130px;
+    color: grey;
+    font-family: sans-serif;
+}
+#info{
+    
+    color: grey;
+    font-size: 18px;
+    font-family: sans-serif;
+}
+.date{
+    border: none;
+    border-bottom: 1px solid;
+    font-family: sans-serif;
+    font-size: 16px;
+
+}
+
+.birth{
+    border: none;
+    border-bottom: 1px solid;
+    font-family: sans-serif;
+    
+    font-size: 16px;
+}
+#button{
+    margin-left: 130px;
+    background-color: rgb(88, 88, 209);
+    width: 90px;
+    height: 40px;
+    border: none;
+    border-radius: 3px;
+    color: white;
+    font-size: 15px;
+}
+
+
